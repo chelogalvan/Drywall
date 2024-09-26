@@ -1,0 +1,36 @@
+18.00:	 Metros cuadrados.
+
+8:			 Cantoneras.
+20:			 omegas .
+5:			 perfil f47 x 4 mts.
+7:			 Placas std x 2.4.
+18.0:			 metros de lana de vidrio
+212:			 Tornillos T1 aguja.
+0:			 Tornillo T2 aguja.
+42:			 fijaciones 06 mm.
+0:			 metros cinta de papel.
+28.80:			 latas de masilla.
+18.00:	 Metros cuadrados.
+
+8:			 Cantoneras.
+20:			 omegas .
+5:			 perfil f47 x 4 mts.
+7:			 Placas std x 2.4.
+18.0:			 metros de lana de vidrio
+212:			 Tornillos T1 aguja.
+0:			 Tornillo T2 aguja.
+42:			 fijaciones 06 mm.
+0:			 metros cinta de papel.
+28.80:			 latas de masilla.
+18.00:	 Metros cuadrados.
+
+8:			 Cantoneras.
+20:			 omegas .
+5:			 perfil f47 x 4 mts.
+7:			 Placas std x 2.4.
+18.0:			 metros de lana de vidrio
+212:			 Tornillos T1 aguja.
+0:			 Tornillo T2 aguja.
+42:			 fijaciones 06 mm.
+0:			 metros cinta de papel.
+28.80:			 latas de masilla.

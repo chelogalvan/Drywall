@@ -1,0 +1,12 @@
+9,792.00:	 Metros cuadrados.
+
+360:			 Cantoneras.
+10644:			 .
+3287:			 perfil f47 x 4 mts.
+3400:			 Placas std x 2.4.
+9792:			 metros de lana de vidrio
+93557:			 Tornillos T1 aguja.
+0:			 Tornillo T2 aguja.
+2160:			 fijaciones 06 mm.
+0:			 metros cinta de papel.
+15667.2:			 latas de masilla.
